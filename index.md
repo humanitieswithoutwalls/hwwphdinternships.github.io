@@ -8,7 +8,7 @@ nav_order: 1
 
 This guide is designed for use by university faculty and staff who seek to pilot a paid internship opportunity for doctoral students to explore non-academic career paths while gaining professional experience and supporting a local community organization. The material here offers recommendations for the design of programs which comprise two main areas of student participation: working part-time with a local non-profit organization and attending a non-credit "course" or sequence of meetings with career development staff over the duration of their appointment.
 
-Taking as an example the Humanities Without Walls (HWW) <a>[Summer Bridge Program](href=https://www.humanitieswithoutwalls.illinois.edu/summer-bridge-program/about-summer-bridge-program) at the University of Illinois Urbana-Champaign's Humanities Research Institute (which has taken place summers 2021-2026), this toolkit provides best practices for the design of similar programs for audiences among HWW consortium universities and beyond. Though it is not a guide to securing funding, it does provide recommendations for program expansion and sustainability.
+Taking as an example the Humanities Without Walls (HWW) [Summer Bridge Program](https://www.humanitieswithoutwalls.illinois.edu/summer-bridge-program/about-summer-bridge-program) at the University of Illinois Urbana-Champaign's Humanities Research Institute (which has taken place summers 2021-2026), this toolkit provides best practices for the design of similar programs for audiences among HWW consortium universities and beyond. Though it is not a guide to securing funding, it does provide recommendations for program expansion and sustainability.
 
 **A Note on Terminology**
 
