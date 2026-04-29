@@ -3,33 +3,15 @@ title: PhD Internships Toolkit
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+**What and who is this toolkit for?**
+This guide is designed for use by university faculty and staff who seek to pilot a paid internship opportunity for doctoral students to explore non-academic career paths while gaining professional experience and supporting a local community organization. The material here offers recommendations for the design of programs which comprise two main areas of student participation: working part-time with a local non-profit organization and attending a non-credit "course" or sequence of meetings with career development staff over the duration of their appointment.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Taking as an example the Humanities Without Walls (HWW) <a>[Summer Bridge Program](href=https://www.humanitieswithoutwalls.illinois.edu/summer-bridge-program/about-summer-bridge-program) at the University of Illinois Urbana-Champaign's Humanities Research Institute (which has taken place summers 2021-2026), this toolkit provides best practices for the design of similar programs for audiences among HWW consortium universities and beyond. Though it is not a guide to securing funding, it does provide recommendations for program expansion and sustainability.
 
-More specifically, the created site:
+**A Note on Terminology**
+The terms used in this toolkit are those which are commonly used at the University of Illinois Humanities Research Institute. Designing a similar program at another institution may require different terms whose use may have implications for students' visa status, registration, compensation, healthcare, income taxation, etc. For example, in what follows, program participants will be referred to as "interns," though practical considerations of University of Illinois policies call for their official appointment status as graduate research assistants. We recommend seeking out the expertise of staff on your own campus in order to understand how these considerations of terminology may impact program policies, appointment details, and the overall experience of student participants (including how they might describe their work in CVs and resumes in the future).
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+**Value of Internships**
+The planning and administration of graduate internship programs which achieve the aims described above are the result of collaborative relationships among several stakeholders both on and off campus. In addition to the internship host organization leadership and staff, this toolkit recommends that those stakeholders include university staff with expertise in program coordination, career/professional development, service learning or community engagement, human resources, and communications. A program coordinator oversees logistics, including scheduling and leading planning meetings, administering application and selection processes, ad hoc troubleshooting of problems which may arise, and ensuring regular communications between program stakeholders. A collaborating staff member with career/professional development expertise can provide mentorship to the cohort of student interns throughout their participation, and may facilitate regular opportunities for students' discussion and reflection on their experiences during the program. University staff in the field of service learning or community engagement can assist in building or sustaining partnerships with community organizations and oversee the process of pairing student interns with suitable host organizations. Human resources staff are crucial to arranging appointments and compensating student participants for their work. Finally, communications experts on campus can help by publicizing the program among potential applicants and producing releases or features which highlight the achievements of student participants in the program. In the case of the HWW Summer Bridge Program, this group of University of Illinois Urbana-Champaign stakeholders comprised program coordination and communications staff at the Humanities Research Institute, career and professional development experts at the Graduate College, staff from WeCU (a campus unit tasked with partnering service learning students and instructors with local community organizations), and human resources staff with the Office of the Vice Chancellor for Research and Innovation.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+The particulars of the group of stakeholders tasked with the graduate internship program design and administration may vary by university. In any case, its initial composition will require some research of your own campus to determine which university units and staff members have the necessary expertise to contribute to the effective design and coordination of the program. Among all of these stakeholders, the university staff with expert knowledge of existing community-university relationships are most crucial to creating a program that is mutally impactful to students and their host organizations.
