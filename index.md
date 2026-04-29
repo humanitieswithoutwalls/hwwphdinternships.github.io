@@ -1,6 +1,7 @@
 ---
 title: PhD Internships Toolkit
 layout: home
+nav_order: 1
 ---
 
 **What and who is this toolkit for?**
