@@ -1,17 +1,41 @@
-$color-scheme: hww;
-$body-background-color: $prussian-blue: #13294bff;
-$body-heading-color: $moss-green: #73bb54ff;
-$body-text-color: $honeydew: #e1efe3ff;
-$link-color: lighten($blue-000, 10%);
-$nav-child-link-color: $honeydew: #e1efe3ff;
-$sidebar-color: $blue-green: #009fd4ff;
-$base-button-color: $sky-blue-light: #7fc3e1ff;
-$btn-primary-color: $sky-blue-light: #7fc3e1ff;
-$code-background-color: #0d1117; // github-dark bg color
-$code-linenumber-color: #e6edf3; // github-dark line number color
-$feedback-color: darken($sidebar-color, 3%);
-$table-background-color: $sky-blue-light: #7fc3e1ff;
-$search-background-color: $sky-blue-light: #7fc3e1ff;
-$search-result-preview-color: $sky-blue-light: #7fc3e1ff;
-$border-color: $sky-blue-light: #7fc3e1ff;
+/** == HWW Color Palette
+/* CSS HEX */
+/**
+--prussian-blue: #13294bff;
+--moss-green: #73bb54ff;
+--blue-green: #009fd4ff;
+--sky-blue-light: #7fc3e1ff;
+--honeydew: #e1efe3ff;
 
+<!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="02788864606973578">new CoolorsPaletteWidget("02788864606973578", ["13294b","73bb54","009fd4","7fc3e1","e1efe3"]); </script>
+**/
+
+/* SCSS HEX */
+$prussian-blue: #13294bff;
+$moss-green: #73bb54ff;
+$blue-green: #009fd4ff;
+$sky-blue-light: #7fc3e1ff;
+$honeydew: #e1efe3ff;
+
+/** main color scheme **/
+$main-text-color: $honeydew;
+$main-bg: lighten( $sky-blue-light, 43% );
+$main-link: $moss-green;
+$main-link-hover: lighten( $moss-green, 25% );
+$main-headers: $moss-green;
+
+/** Color scheme for top header bar **/
+$dark-text-color: $prussian-blue;
+$dark-bg: lighten( $honeydew, 30% );
+$dark-link: darken( $moss-green, 10% );
+$dark-link-hover: $moss-green;
+$dark-headers: darken( $blue-green, 15% );
+
+/** Color scheme for bottom bar **/
+$accent-text-color: lighten( $honeydew, 43% );
+$accent-bg: $prussian-blue;
+$accent-link: lighten( $moss-green, 25% );
+$accent-link-hover: $honeydew;
+$accent-headers: lighten( $moss-green, 25% );
