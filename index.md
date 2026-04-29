@@ -1,5 +1,5 @@
 ---
-title: Home
+title: PhD Internships Toolkit
 layout: home
 ---
 
