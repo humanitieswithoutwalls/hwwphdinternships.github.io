@@ -1,5 +1,5 @@
 ---
-title: PhD Internships Toolkit
+title: PhD Internships Toolkit Home
 layout: home
 nav_order: 1
 ---
