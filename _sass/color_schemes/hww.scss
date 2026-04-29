@@ -19,6 +19,7 @@ $blue-green: #009fd4ff;
 $sky-blue-light: #7fc3e1ff;
 $honeydew: #e1efe3ff;
 
+{
 /* SCSS HSL */
 $prussian-blue: hsla(216, 60%, 18%, 1);
 $moss-green: hsla(102, 43%, 53%, 1);
@@ -43,3 +44,5 @@ $gradient-bottom-right: linear-gradient(135deg, #13294bff, #73bb54ff, #009fd4ff,
 $gradient-top-left: linear-gradient(225deg, #13294bff, #73bb54ff, #009fd4ff, #7fc3e1ff, #e1efe3ff);
 $gradient-bottom-left: linear-gradient(315deg, #13294bff, #73bb54ff, #009fd4ff, #7fc3e1ff, #e1efe3ff);
 $gradient-radial: radial-gradient(#13294bff, #73bb54ff, #009fd4ff, #7fc3e1ff, #e1efe3ff);
+}
+
