@@ -23,6 +23,7 @@ The overarching goals of HWW and its programs, such as Bridge, are rooted in rec
 * **think** intentionally and proactively about developing reciprocal, co-created working relationships;
 * **offer** education/training in a variety of "humanities without walls" dispositions and skills to redistribute the insights, resources, and working knowledge HWW has gained.
 
+
 With reciprocity and redistribution being the guiding methods for programs like Bridge, it is equally important to be aware of the history of your institution. Some local communities and organizations may not be interested in participating in such programs because they have been poorly treated by representatives from your university. 
 Questions to consider:
 * What is the current relationship of your university with the local community?
