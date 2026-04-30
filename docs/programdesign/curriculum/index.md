@@ -14,4 +14,4 @@ Secondary to the internship, the other component of the summer program is regula
 * Community engaged teaching and service learning course development;
 * And more, depending on the students' interests and career goals, and the types of organizations they are partnered with.
 
-Check out the Humanities Without Walls Community Engaged Research Toolkit for resources, insights, and ongoing projects and initiatives! *Link here!!*
+Check out the Humanities Without Walls Career Diversity and Community Engaged Research Toolkits for resources, insights, and ongoing projects and initiatives! *Links here!!* 
