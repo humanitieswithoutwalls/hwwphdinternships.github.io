@@ -7,5 +7,4 @@ has_children: true
 
 **Reciprocity and Redistribution in Action**
 
-description
-
+The R&R in Action program invited centers and institutes in the HWW consortium to submit proposals for piloting paid summer internship programs which enable humanities graduate students to partner with a local community organization to contribute to its mission through work that serves ambitions and needs that are critical to the sustainability of the organization.
