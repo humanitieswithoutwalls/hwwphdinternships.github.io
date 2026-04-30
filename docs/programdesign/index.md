@@ -9,6 +9,8 @@ has_children: true
 
 *Reciprocity and Redistribution* 
 
+It is important to emphasize that this is not a program where students are merely “giving back” to their communities. Rather, they are partnering with local experts on a particular cause or area and contributing the skills they have developed in their academic work in service of the organization’s mission.
+
 Engaging collaborators in equal and ethical partnerships happens through methods of reciprocity and redistribution. 
 These partnerships are not one-directional (aka only from campus outward), nor are they faculty or student-centered (aka hierarchical in ways that privilege presumptively white western scholarly expertise over other forms of knowing).
 
