@@ -26,5 +26,5 @@ When designing the application for a program, it is important to consider the ki
 Additionally, the application also requires a resume/CV and a recommendation form. This form is to be filled out by one person able to speak to the student's capacity and potential to contribute to a community organization (and does not have to be affiliated with the university). 
 
 **Selection**
-forming committee, selection criteria
+
 Selection processes will vary across institutions and will be dependent upon the community partners' level of involvement at this stage. The Summer Bridge Program selection committee has typically consisted of the program coordinator, HWW PI, a former Bridge intern, and one other colleague familiar with the program and with expertise in career diversity and community engagement. You may choose to have a committee review applications and identify students for the partner organizations to interview, or have partners on the review committee and select students without holding interviews. 
