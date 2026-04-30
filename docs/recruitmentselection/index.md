@@ -15,7 +15,7 @@ To recruit applicants for the HWW Summer Bridge Program, publicity begins late i
 
 **Info Session**
 
-An info session is a great way for potential applicants to learn more about the program and evaluate whether it is a good fit for them. This session should give a detailed overview of the program and its goals, methods, and ethos, and should detail what good candidates look like. The Summer Bridge Program info session walks students through the application and gives tips on how to narrate their experiences and skillsets in ways that are appealing to community organizations. We also invite a former Bridge participant to share a bit about their experience and some of the things they learned during their internship. You can find a past Bridge info session on the (program page)[https://www.humanitieswithoutwalls.illinois.edu/summer-bridge-program/summer-bridge-program-call-applications]. 
+An info session is a great way for potential applicants to learn more about the program and evaluate whether it is a good fit for them. This session should give a detailed overview of the program and its goals, methods, and ethos, and should detail what good candidates look like. The Summer Bridge Program info session walks students through the application and gives tips on how to narrate their experiences and skillsets in ways that are appealing to community organizations. We also invite a former Bridge participant to share a bit about their experience and some of the things they learned during their internship. You can find a past Bridge info session on the [program page](https://www.humanitieswithoutwalls.illinois.edu/summer-bridge-program/summer-bridge-program-call-applications). 
 
 **Application**
 
