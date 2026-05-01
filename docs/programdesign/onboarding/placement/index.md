@@ -10,7 +10,7 @@ grandparent: Program Design and Methods
 
 *If Community Partners are Identified Before Students are Selected*
 
-If your program has already determined which organizations students will work with, the process of selecting and placing students with community partner organizations should be developed in conversation between the program coordinator(s) and community partners. You may choose to have a committee review applications and identify students for the partner organizations to interview, or have partners on the review committee and select students without holding interviews. These strategies allow the needs of the organizations to determine which students are selected and the types of skillsets that make strong applicants stand out. 
+If your program has already determined which organizations students will work with, the process of selecting and placing students with community partner organizations should be developed in conversation between the program coordinator(s) and community partners. You may choose to have a committee review applications and identify students for the partner organizations to interview, or have partners on the review committee and select students without holding interviews. These strategies allow the needs of the organizations to determine which students are selected and the types of skillsets that make strong applicants stand out. *will add more detail based on documentation from R&R in Action programs*
 
 *If Students are Selected Before Community Partners are Identified*
 
