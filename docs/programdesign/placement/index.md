@@ -1,3 +1,11 @@
+---
+title: Placement
+layout: default
+nav_order: 1
+parent: Onboard and Orientation
+grandparent: Program Design and Methods
+---
+
 **Placing Students with Community Partners**
 
 *If Community Partners are Identified Before Students are Selected*
