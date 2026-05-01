@@ -4,17 +4,19 @@ layout: home
 nav_order: 1
 ---
 
-**What and who is this toolkit for?**
+# **PhD Internships Toolkit**
+
+## **What and who is this toolkit for?**
 
 This guide is designed for use by university faculty and staff who seek to pilot a paid internship opportunity for doctoral students to explore non-academic career paths while gaining professional experience and supporting a local community organization. The material here offers recommendations for the design of programs which comprise two main areas of student participation: working part-time with a local non-profit organization and attending a non-credit "course" or sequence of meetings with career development staff over the duration of their appointment.
 
 Taking as an example the Humanities Without Walls (HWW) [Summer Bridge Program](https://www.humanitieswithoutwalls.illinois.edu/summer-bridge-program/about-summer-bridge-program) at the University of Illinois Urbana-Champaign's Humanities Research Institute (which has taken place summers 2021-2026), this toolkit provides best practices for the design of similar programs for audiences among HWW consortium universities and beyond. Though it is not a guide to securing funding, it does provide recommendations for program expansion and sustainability.
 
-**A Note on Terminology**
+## **A Note on Terminology**
 
 The terms used in this toolkit are those which are commonly used at the University of Illinois Humanities Research Institute. Designing a similar program at another institution may require different terms whose use may have implications for students' visa status, registration, compensation, healthcare, income taxation, etc. For example, in what follows, program participants will be referred to as "interns," though practical considerations of University of Illinois policies call for their official appointment status as graduate research assistants. We recommend seeking out the expertise of staff on your own campus in order to understand how these considerations of terminology may impact program policies, appointment details, and the overall experience of student participants (including how they might describe their work in CVs and resumes in the future).
 
-**Value of Internships**
+## **Value of Internships**
 
 The planning and administration of graduate internship programs which achieve the aims described above are the result of collaborative relationships among several stakeholders both on and off campus. In addition to the internship host organization leadership and staff, this toolkit recommends that those stakeholders include university staff with expertise in program coordination, career/professional development, service learning or community engagement, human resources, and communications. A program coordinator oversees logistics, including scheduling and leading planning meetings, administering application and selection processes, ad hoc troubleshooting of problems which may arise, and ensuring regular communications between program stakeholders. A collaborating staff member with career/professional development expertise can provide mentorship to the cohort of student interns throughout their participation, and may facilitate regular opportunities for students' discussion and reflection on their experiences during the program. University staff in the field of service learning or community engagement can assist in building or sustaining partnerships with community organizations and oversee the process of pairing student interns with suitable host organizations. Human resources staff are crucial to arranging appointments and compensating student participants for their work. Finally, communications experts on campus can help by publicizing the program among potential applicants and producing releases or features which highlight the achievements of student participants in the program. In the case of the HWW Summer Bridge Program, this group of University of Illinois Urbana-Champaign stakeholders comprised program coordination and communications staff at the Humanities Research Institute, career and professional development experts at the Graduate College, staff from WeCU (a campus unit tasked with partnering service learning students and instructors with local community organizations), and human resources staff with the Office of the Vice Chancellor for Research and Innovation.
 
