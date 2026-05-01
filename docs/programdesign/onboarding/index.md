@@ -6,6 +6,8 @@ parent: Program Design and Methods
 has_children: true
 ---
 
+# **Onboarding and Orientation**
+
 The processes for matching and placing students will vary across institutions and be shaped by a variety of factors, including but not limited to:
 * Exisitng infrastructure for service learning;
 * Relationships with community organizations and their desired level of involvement in the application/selection process;
