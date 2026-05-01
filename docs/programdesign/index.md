@@ -3,7 +3,6 @@ title: Program Design and Methods
 layout: default
 nav_order: 2
 has_children: true
-has_grandchildren: true
 ---
 
 **Program Design and Methods**
