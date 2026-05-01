@@ -1,0 +1,7 @@
+**Placing Students with Community Partners**
+
+*If Community Partners are Identified Before Students are Selected*
+
+*If Students are Selected Before Community Partners are Identified*
+
+The Summer Bridge Program selects students before identifying community partners. This method, chosen in consultation with the University of Illinois's service learning units (WeCU and the Community Learning Lab (CLL)), allows us to identify students with skillsets that would appeal to a variety of organizations and use a project matching process to pair them with a partner. After students are selected, we send them a project matching survey to begin this process. The survey gives them a list of causes/populations and asks them to rank the top 5 they are most interested in working with. This list is based on the organizations in Champaign-Urbana and their focus areas. The survey also asks them for a short bio to share with organizations, as well as the skills existing skills they could contribute (such as grant writing, curriculum development, assessment, etc.), skills they are interested in developing, and if they speak any languages other than English (and their level of fluency). The CLL then uses the survey responses to determine what organizations might be a good fit and sends a list of 4-5 for the student to rank. From there, CLL begins contacting the organizations in the student's ranked order and shares their bio, skillsets, and asks if they would benefit from/have the capacity to host an intern for the summer. 
