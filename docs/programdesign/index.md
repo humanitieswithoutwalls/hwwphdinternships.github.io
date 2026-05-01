@@ -5,9 +5,9 @@ nav_order: 2
 has_children: true
 ---
 
-**Program Design and Methods**
+# **Program Design and Methods**
 
-*Reciprocity and Redistribution* 
+## *Reciprocity and Redistribution* 
 
 It is important to emphasize that this is not a program where students are merely “giving back” to their communities. Rather, they are partnering with local experts on a particular cause or area and contributing the skills they have developed in their academic work in service of the organization’s mission.
 
