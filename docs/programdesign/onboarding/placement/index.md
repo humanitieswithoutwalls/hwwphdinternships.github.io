@@ -2,7 +2,7 @@
 title: Placement
 layout: default
 nav_order: 1
-parent: Onboard and Orientation
+parent: Onboarding and Orientation
 grandparent: Program Design and Methods
 ---
 
