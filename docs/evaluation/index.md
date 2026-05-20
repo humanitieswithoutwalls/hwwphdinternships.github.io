@@ -9,7 +9,7 @@ has_children: false
 
 Assessment and evaluation are vital components of building a sustainable program. Taking a moment to reflect on the program and the experiences of participants helps you document what you did, how you did it, how it was received, and how to prepare for future versions. Thorough assessment happens on three fronts: with students, community partners, and internal program staff. Surveys are a straightforward mechanism for gathering feedback, but you may elect to do exit interviews or conversations as well. Think about your markers for success, the kinds of information you need in order to measure them, and construct your questions from there, taking care to strike the balance between being thorough and not tasking everyone with an overly onerous assignment. 
 
-## Students
+## *Students*
 
 Example questions:
 * What is the most important thing you learned about being a humanist in a community engagement context?
@@ -20,7 +20,7 @@ Example questions:
 
 Include question like "do you want to meet with program staff to discuss your responses further?" and space to provide any additional thoughts/feedback.
 
-## Community Partners
+## *Community Partners*
 
 A check-in at the halfway point of the program and a final reflection 
 
@@ -35,7 +35,7 @@ Example questions:
 
 Include question like "do you want to meet with program staff to discuss your responses further?" and space to provide any additional thoughts/feedback.
 
-## Internal Program Staff
+## *Internal Program Staff*
 
 * What went well?
 * What are things you did in the process of running the program that you definitely want to do again in future iterations?
