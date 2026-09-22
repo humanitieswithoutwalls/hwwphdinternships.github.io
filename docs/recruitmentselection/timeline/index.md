@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 parent: Recruitment and Selection
 ---
-**Timeline**
+# **Timeline**
 
 This an example of a program timeline that the Illinois Bridge Program followed in 2026. 
 
