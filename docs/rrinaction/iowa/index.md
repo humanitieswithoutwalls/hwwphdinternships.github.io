@@ -56,6 +56,31 @@ Community Partner Profiles
 
 *Responsibilities*: 
 * Research and Outreach
-*   Identify and compile a list of potential participants (volunteers, families, staff)
-*   Contact individuals to explain the project and invite participants
+    * Identify and compile a list of potential participants (volunteers, families, staff)
+    * Contact individuals to explain the project and invite participants
 * Interview Support
+    * Conduct interviews alongside the Executive Director and Community Developer
+    * Prepare interview questions and ensure a comfortable environment for participants
+    * Record and document stories accurately for future use
+* Content Development
+    * Organize and summarize collected stories for inclusion in the storytelling platform
+    * Assist in planning the documentary structure and themes
+* Collaboration
+    * Work closely with leadership and creative teams to ensure stories reflect the mission and values of the organization
+    * Provide input on multimedia formats (video, audio, and written narratives)
+
+*Deliverables*:
+* Develop at least 10 full written profiles that highlight Neighborhood Centers' people, programs, and community impact through interviews, observation, and storytelling
+* Create a storytelling compendium with at least 20 organized raw materials, including interview notes, quotes, drafts, consent documentation, workshop materialsm and story leads so future staff and interns can access and build on the work
+* Create a brief instruction manual for future storytelling interns that includes the interview process, consent steps, file organization system, writing tips, and recommendation for continuing the project
+
+### Neighborhood Centers of Johnson County Community Outreach and Program Support Intern
+*Position Description*: Assist in the introduction and development of new program ideas and resources aimed at engaging families and increasing enrollment in childcare programs, enrichment activities for children, and adult education classes.
+
+*Responsibilities*:
+* Community Outreach
+    * Connect with families through door-to-door visits, phone calls, and social media
+    * Distribute flyers and promotional materials to local businesses, schools, and community centers
+* Program Development
+    * Provide input on new program ideas based on community needs
+    * Help organize focus groups or feedback sessions with residents
