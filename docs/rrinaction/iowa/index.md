@@ -77,13 +77,28 @@ Community Partner Profiles
 >>* Create a storytelling compendium with at least 20 organized raw materials, including interview notes, quotes, drafts, consent documentation, workshop materialsm and story leads so future staff and interns can access and build on the work
 >>* Create a brief instruction manual for future storytelling interns that includes the interview process, consent steps, file organization system, writing tips, and recommendation for continuing the project
 
-### Neighborhood Centers of Johnson County Community Outreach and Program Support Intern
-*Position Description*: Assist in the introduction and development of new program ideas and resources aimed at engaging families and increasing enrollment in childcare programs, enrichment activities for children, and adult education classes.
-
-*Responsibilities*:
-* Community Outreach
-    * Connect with families through door-to-door visits, phone calls, and social media
-    * Distribute flyers and promotional materials to local businesses, schools, and community centers
-* Program Development
-    * Provide input on new program ideas based on community needs
-    * Help organize focus groups or feedback sessions with residents
+> {: .new }
+>>### Neighborhood Centers of Johnson County Community Outreach and Program Support Intern
+>>*Position Description*: Assist in the introduction and development of new program ideas and resources aimed at engaging families and increasing enrollment in childcare programs, enrichment activities for children, and adult education classes.
+>>
+>>*Responsibilities*:
+>>* Community Outreach
+>>    * Connect with families through door-to-door visits, phone calls, and social media
+>>    * Distribute flyers and promotional materials to local businesses, schools, and community centers
+>>* Program Development
+>>    * Provide input on new program ideas based on community needs
+>>    * Help organize focus groups or feedback sessions with residents
+>>* Enrollment Assistance
+>>     * Support families in registering for childcare, enrichment programs, and adult education classers
+>>     * Offer guidance and translation support for non-English-speaking families (if applicable)
+>>* Event Support
+>>     * Assist in planning and hosting informational sessions and family engagement events
+>>     * Help with event setup, sign-in, and hospitality
+>>* Resource Creation
+>>     * Develop sample guides, FAQs, and digital content to explain program benefits and schedules
+>>
+>> *Deliverables*
+>>* Contribute to literacy planning and community engagement efforts by participating in meetings, offering ideas, and helping organize follow-up steps
+>>* Identify practical strategies for strengthening outreach and literacy work that align with NCJC's mission and strategic goals
+>>* Create and employee handbook for future interns and Americorp students
+>>   
