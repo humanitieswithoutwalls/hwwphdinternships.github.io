@@ -32,48 +32,50 @@ Community Partner Profiles
 
 ## Internship Position Descriptions and Deliverables
 > {: .new }
->>### Iowa City Public Library Friends Foundation Community Feedback Framework Intern
->>*Position Description*: The intern designs and documents a sustainable framework for ongoing community feedback and engagement to inform future planning. This internship will focus on identifying community partners and affinity groups, designing inclusive feedback events, and developing standardized tools for gathering and analyzing community input. The result of this internship will be a repeatable feedback model that library staff can use to inform services, spaces, and programs well beyond the internship period.
+>### Iowa City Public Library Friends Foundation Community Feedback Framework Intern
+>*Position Description*: The intern designs and documents a sustainable framework for ongoing community feedback and engagement to inform future planning. This internship will focus on identifying community partners and affinity groups, designing inclusive feedback events, and developing standardized tools for gathering and analyzing community input. The result of this internship will be a repeatable feedback model that library staff can use to inform services, spaces, and programs well beyond the internship period.
+>
+>*Deliverables*:
+>* Develop a living partner director and affinity group document for internal use
+>* Provide an overview of current best practices in library and community assessment
+>* Design data collection tools for capturing qualitative and quantitative data
+>* Design a set of event model formats for community engagement
+
+> {: .new }
+> ### Iowa City Public Library Friends Foundation Advocacy and Government Affairs Intern
+>*Position Description*: This intern will assess, strengthen, and document the Iowa Library Association’s advocacy and government affairs work. This internship will focus on understanding Iowa’s current library advocacy ecosystem, identifying opportunities for stronger engagement with local library foundations, Friends groups, and pro-library allies, and developing tools and strategies to support sustained, visible advocacy throughout the year. The intern’s work will result in practical, data-informed resources that support the ILA Government Affairs Committee (GAC) and member libraries in building long- term relationships with policymakers and expanding Iowa’s pro-library advocacy base.
+>
+>*Deliverables*:
+>* Create an advocacy ecosystem overview or visual map with key findings and recommendations
+>* Create a concise policy and legislative landscape report for Iowa Library Association leadership and members
+>* Create a comparative analysis memo outlining best practices and recommended adaptations for Iowa Library Association
+>* Draft a brief framework for engaging Friends/foundations and/or developing a pro-library affinity group in Iowa
+>* Draft and advocacy communications guide or toolkit for Iowa Library Association members
+>* An executive summary and presentation of findings during the internship
+
+> {: .new }
+>>### Neighborhood Centers for Johnson County Storytelling and Documentary Development Intern
+>>*Position Description*: Assist in creating a storytelling platform that captures and shares the experiences of current and former volunteers, individuals, families, and employees. These stories will be developed into a documentary-style format and shared across multiple platforms to highlight the impact of community programs.
 >>
->>*Deliverables*:
->>* Develop a living partner director and affinity group document for internal use
->>* Provide an overview of current best practices in library and community assessment
->>* Design data collection tools for capturing qualitative and quantitative data
->>* Design a set of event model formats for community engagement
-
-### Iowa City Public Library Friends Foundation Advocacy and Government Affairs Intern
-*Position Description*: This intern will assess, strengthen, and document the Iowa Library Association’s advocacy and government affairs work. This internship will focus on understanding Iowa’s current library advocacy ecosystem, identifying opportunities for stronger engagement with local library foundations, Friends groups, and pro-library allies, and developing tools and strategies to support sustained, visible advocacy throughout the year. The intern’s work will result in practical, data-informed resources that support the ILA Government Affairs Committee (GAC) and member libraries in building long- term relationships with policymakers and expanding Iowa’s pro-library advocacy base.
-
-*Deliverables*:
-* Create an advocacy ecosystem overview or visual map with key findings and recommendations
-* Create a concise policy and legislative landscape report for Iowa Library Association leadership and members
-* Create a comparative analysis memo outlining best practices and recommended adaptations for Iowa Library Association
-* Draft a brief framework for engaging Friends/foundations and/or developing a pro-library affinity group in Iowa
-* Draft and advocacy communications guide or toolkit for Iowa Library Association members
-* An executive summary and presentation of findings during the internship
-
-### Neighborhood Centers for Johnson County Storytelling and Documentary Development Intern
-*Position Description*: Assist in creating a storytelling platform that captures and shares the experiences of current and former volunteers, individuals, families, and employees. These stories will be developed into a documentary-style format and shared across multiple platforms to highlight the impact of community programs.
-
-*Responsibilities*: 
-* Research and Outreach
+>>*Responsibilities*: 
+>>* Research and Outreach
     * Identify and compile a list of potential participants (volunteers, families, staff)
     * Contact individuals to explain the project and invite participants
-* Interview Support
-    * Conduct interviews alongside the Executive Director and Community Developer
-    * Prepare interview questions and ensure a comfortable environment for participants
-    * Record and document stories accurately for future use
-* Content Development
-    * Organize and summarize collected stories for inclusion in the storytelling platform
-    * Assist in planning the documentary structure and themes
-* Collaboration
-    * Work closely with leadership and creative teams to ensure stories reflect the mission and values of the organization
-    * Provide input on multimedia formats (video, audio, and written narratives)
-
-*Deliverables*:
-* Develop at least 10 full written profiles that highlight Neighborhood Centers' people, programs, and community impact through interviews, observation, and storytelling
-* Create a storytelling compendium with at least 20 organized raw materials, including interview notes, quotes, drafts, consent documentation, workshop materialsm and story leads so future staff and interns can access and build on the work
-* Create a brief instruction manual for future storytelling interns that includes the interview process, consent steps, file organization system, writing tips, and recommendation for continuing the project
+>>* Interview Support
+>>    * Conduct interviews alongside the Executive Director and Community Developer
+>>    * Prepare interview questions and ensure a comfortable environment for participants
+>>    * Record and document stories accurately for future use
+>>* Content Development
+>>    * Organize and summarize collected stories for inclusion in the storytelling platform
+>>    * Assist in planning the documentary structure and themes
+>>* Collaboration
+>>    * Work closely with leadership and creative teams to ensure stories reflect the mission and values of the organization
+>>    * Provide input on multimedia formats (video, audio, and written narratives)
+>>
+>>*Deliverables*:
+>>* Develop at least 10 full written profiles that highlight Neighborhood Centers' people, programs, and community impact through interviews, observation, and storytelling
+>>* Create a storytelling compendium with at least 20 organized raw materials, including interview notes, quotes, drafts, consent documentation, workshop materialsm and story leads so future staff and interns can access and build on the work
+>>* Create a brief instruction manual for future storytelling interns that includes the interview process, consent steps, file organization system, writing tips, and recommendation for continuing the project
 
 ### Neighborhood Centers of Johnson County Community Outreach and Program Support Intern
 *Position Description*: Assist in the introduction and development of new program ideas and resources aimed at engaging families and increasing enrollment in childcare programs, enrichment activities for children, and adult education classes.
