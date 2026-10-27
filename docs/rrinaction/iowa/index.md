@@ -101,4 +101,59 @@ Community Partner Profiles
 >>* Contribute to literacy planning and community engagement efforts by participating in meetings, offering ideas, and helping organize follow-up steps
 >>* Identify practical strategies for strengthening outreach and literacy work that align with NCJC's mission and strategic goals
 >>* Create and employee handbook for future interns and Americorp students
->>   
+>>
+
+> {: .new }
+> ### Public Space One Grant Administration and Research Internship
+> *Position Description*: Public Space One (PS1) is an artist-led, community-driven, contemporary art center. This position supports grant administration, research, documentation, and publication development and design for its multi-year Alongside/Banned but Not Silenced project, developed in collaboration with the University of Iowa Stanley Museum of Art. Summer 2026 marks the midpoint of this two-year initiative. The intern assists with organizing and synthesizing materials from the project’s first year, supporting grant reporting requirements, and contributing to the design and development of a small publication that documents project activities and outcomes.
+>
+> *Responsibilities*:
+> * Assist with grant administration tasks, including organizing materials for reporting to funders
+> * Research, summarize, and synthesize project activities, programs, and participant feedback
+> * Support documentation and archiving of materials generated from grant activities
+> * Contribute written content for internal reports and public-facing materials
+> * Assist with publication development (zine or serial format) in collaboration with PS1 staff and artists
+> * Communicate as needed with project partners
+>
+> *Deliverables*:
+> * Design and publish small series of booklets related to Banned but Not Silenced project activity
+>      * Design a book template for small books (12-24 pages)
+> * Help grant activity for visiting artists
+> * Help design and promote visiting artist events
+> * Document the visits, exhibitions, and artist talks
+> * Help build and finalize first year grant report to Luce Foundation in consultation with PS1
+
+> {: .new }
+> ### Public Space One Media Arts Co-op Archive and Storytelling Intern
+> *Position Description*: This position supports research, storytelling, and public engagement related to the Media Arts Co-op’s (MAC) public access television archives. This internship focuses on activating and interpreting archival materials from Iowa City’s former public access television channel (PATV) and sharing stories drawn from this collection with a broad public audience. PS1’s Media Arts Co-op program grew out of the closure of Iowa City’s public access television station and its subsequent merger with PS1. As part of PS1’s ongoing commitment to the legacy of PATV, this internship centers on telling the story of public access media in Iowa City and its broader cultural impact. The PATV archives include over 700 VHS tapes, thousands of hours of digital video, photographs, and paper materials documenting decades of community-produced media. These materials capture local arts and culture, community journalism, experimental video, public conversations, and everyday life in Iowa City, while also connecting to a national movement for public access media. The intern will build on prior archival work and community programs to develop several publicly accessible stories drawn from the archives and new research.
+>
+> *Responsibilities*:
+> * Review and assess materials within the PATV archives
+> * Build on previous archival projects and recent PS1 programming
+> * Research comparable public access and community media archive projects nationally
+> * Conduct short interviews with local PATV participants and Media Arts Co-op members
+> * Develop 3-5 multimedia narratives (text, images, video, or hybrid formats)
+> * Publish completed stories on the Public Media One website
+>
+> *Deliverables*:
+> * Consider the current state of the archive and envision its future
+> * Identify a portion of the archive to more fully engage, to build on previous archival projects and recent PS1 programming
+> * Synthesize a portion of the archival materials and more recent dialogues into accessible narratives
+> * Create at least 3 public-facing narratives shared with the PS1, PATV, and local community
+> * Draft a set of written recommendations describing the PATV Archives program, scope, and potential opportunities for future expansion and engagement
+
+## Timeline for Planning
+* Identify Community Partner internship sites in early Fall semester
+* Begin the process of co-creating internship descriptions with community partners. Aim to have them finalized before the start of the Spring semester (early-mid January)
+* Release internship application at the start of the Spring semester
+* Create a robust advertising campaign for the program when semester begins. Include announcements in the Center newsletter and on social media. [Coordinated with OVPR to write a piece about the program.](https://research.uiowa.edu/news/2026/01/six-paid-summer-internships-available-humanities-grad-students-through-new-grant). Associate director emailed Directors of Graduate Studies in humanities and humanities adjacent departments individually about the program.
+* Application closed March 2
+* Obermann Director and Associate Director reviewed applications and selected 2 finalists per position
+* Finalists interviewed in-person, on-site with the community partners the week before spring break
+* Community partners let Obermann staff know which candidate they selected of the two
+* Obermann staff notified selected students the week everyone returned from spring break
+* Obermann staff hosted an early May orientation
+* Internships ran June 1-July 24
+* Cohort meetings were held: June 4, June 16, July 2, and July 16
+* Midpoint check-ins were asked of the community partners the week of June 22
+* Interns submitted final reports on July 28
