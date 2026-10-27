@@ -31,14 +31,15 @@ Community Partner Profiles
 * [Public Space One](https://www.publicspaceone.com/)
 
 ## Internship Position Descriptions and Deliverables
-### Iowa City Public Library Friends Foundation Community Feedback Framework Intern
-*Position Description*: The intern designs and documents a sustainable framework for ongoing community feedback and engagement to inform future planning. This internship will focus on identifying community partners and affinity groups, designing inclusive feedback events, and developing standardized tools for gathering and analyzing community input. The result of this internship will be a repeatable feedback model that library staff can use to inform services, spaces, and programs well beyond the internship period.
-
-*Deliverables*:
-* Develop a living partner director and affinity group document for internal use
-* Provide an overview of current best practices in library and community assessment
-* Design data collection tools for capturing qualitative and quantitative data
-* Design a set of event model formats for community engagement
+> {: .new }
+>>### Iowa City Public Library Friends Foundation Community Feedback Framework Intern
+>>*Position Description*: The intern designs and documents a sustainable framework for ongoing community feedback and engagement to inform future planning. This internship will focus on identifying community partners and affinity groups, designing inclusive feedback events, and developing standardized tools for gathering and analyzing community input. The result of this internship will be a repeatable feedback model that library staff can use to inform services, spaces, and programs well beyond the internship period.
+>>
+>>*Deliverables*:
+>>* Develop a living partner director and affinity group document for internal use
+>>* Provide an overview of current best practices in library and community assessment
+>>* Design data collection tools for capturing qualitative and quantitative data
+>>* Design a set of event model formats for community engagement
 
 ### Iowa City Public Library Friends Foundation Advocacy and Government Affairs Intern
 *Position Description*: This intern will assess, strengthen, and document the Iowa Library Association’s advocacy and government affairs work. This internship will focus on understanding Iowa’s current library advocacy ecosystem, identifying opportunities for stronger engagement with local library foundations, Friends groups, and pro-library allies, and developing tools and strategies to support sustained, visible advocacy throughout the year. The intern’s work will result in practical, data-informed resources that support the ILA Government Affairs Committee (GAC) and member libraries in building long- term relationships with policymakers and expanding Iowa’s pro-library advocacy base.
